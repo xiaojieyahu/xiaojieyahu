@@ -39,7 +39,3 @@
 <img src="https://komarev.com/ghpvc/?username=xiaojieyahu&abbreviated=true&color=yellow" />
 </p>
  
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=小杰呀呼&fontSize=90&fontAlign=50&fontAlignY=70&desc=感谢你的观看!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
